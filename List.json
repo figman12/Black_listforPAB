@@ -61,6 +61,10 @@
 			"cmbull",
 			"inbull"
 		],
+		"BannedUserIds":[
+			123247,
+			4057181858
+		]
 		"groups": [
 			34257684,
 			14847500,
