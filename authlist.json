@@ -1,4 +1,5 @@
-{
+{ "whitelist":
+    {
     "names": [
         "mastercraft616161",
         "DreyfusGames",
@@ -10,4 +11,5 @@
         "realirfankamil",
         "AlexG_101"
     ]
+}
 }
