@@ -59,10 +59,14 @@
 			"Inbull",
 			"CmBull",
 			"cmbull",
-			"inbull"
+			"inbull",
+			"oterrivel"
 		],
 		"BannedUserIds":[
-			123247
+			123247,
+			705958328,
+			5523021557,
+			5043214782
 		],
 		"groups": [
 			34257684,
